@@ -60,20 +60,58 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ## 🚀 Projects
 
-### 🔹 Tokenized Real Estate Platform – Sofgo
+### 🔹 **Token Realty Exchange – Decentralized Real Estate Commodities Platform**
 
-**Tech:** FastAPI, PostgreSQL, Node.js, Docker, JWT, AWS
+**Tech:** FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS  
+[https://tokenrealty.exchange](https://tokenrealty.exchange)
 
-- Developed and maintained REST APIs for tokenizing real estate assets on a blockchain-integrated backend.
-- Implemented user authentication, multi-role access control, and financial approval workflows.
-- Set up CI/CD pipelines using GitHub Actions and Docker for seamless deployment.
+- Built backend infrastructure for a decentralized platform enabling tokenization of real estate equity into commodities.
+- Designed and implemented multi-role authentication for brokers, sales managers, financial advisors, and licensees.
+- Developed KYC/AML verification workflows, token creation APIs, and location-specific AVM valuation logic.
+- Engineered secure, compliant smart contract integrations with DAO oversight and Series LLC asset holding models.
+- Ensured tokens are treated as commodities backed by deeds and mortgage filings—not securities—through strict business logic and validation pipelines.
 
-### 🔹 Multi-Tenant Mobile API Backend – Jodna Technologies
+---
+
+### 🔹 **Gamaliel Consult – Corporate Advisory & Mentorship Hub**
+
+**Tech:** Node.js, MongoDB, Express, TypeScript  
+[https://www.gamalielconsult.com](https://www.gamalielconsult.com)
+
+- Built REST APIs powering a mentorship and business consultancy platform.
+- Integrated appointment scheduling and mentor matching features.
+- Developed custom role access for mentors, mentees, and admins.
+
+---
+
+### 🔹 **TrackMeNg – Mobile Security & Tracking App**
+
+**Tech:** Node.js, TypeScript, PostgreSQL, JWT  
+[https://home.trackmeng.com](https://home.trackmeng.com)
+
+- Developed backend APIs for a real-time tracking and alert system targeting individuals and security companies.
+- Implemented live location logging, alert dispatch system, and personnel monitoring for security agents.
+- Built features to support private fleet tracking, user subscriptions, and communication workflows.
+
+---
+
+### 🔹 **PDF Webpage – Academic Document Sharing Platform**
+
+**Tech:** Node.js, TypeScript, MongoDB  
+[https://pdf-webpage-ashy.vercel.app](https://pdf-webpage-ashy.vercel.app)
+
+- Engineered backend for an academic material-sharing platform for students and tutors.
+- Enabled document upload, PDF categorization by course, level, and semester.
+- Implemented email capture and notification system for new materials and updates.
+
+---
+
+### 🔹 **Multi-Tenant Mobile API Backend – Jodna Technologies**
 
 **Tech:** FastAPI, MongoDB, Redis, JWT, PM2
 
 - Architected scalable APIs supporting role-based access and real-time notifications for a mobile commerce app.
-- Created a notification microservice using FastAPI + Redis Pub/Sub.
+- Created a notification microservice using FastAPI + Socket.io.
 - Integrated user analytics tracking and device token-based FCM support.
 
 ---
