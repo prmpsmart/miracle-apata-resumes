@@ -23,26 +23,6 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Tokenized Real Estate Platform – ScanifyDev
-
-**Tech:** FastAPI, PostgreSQL, Node.js, Docker, JWT, AWS
-
-- Developed and maintained REST APIs for tokenizing real estate assets on a blockchain-integrated backend.
-- Implemented user authentication, multi-role access control, and financial approval workflows.
-- Set up CI/CD pipelines using GitHub Actions and Docker for seamless deployment.
-
-### 🔹 Multi-Tenant Mobile API Backend – Jodna Technologies
-
-**Tech:** FastAPI, MongoDB, Redis, JWT, PM2
-
-- Architected scalable APIs supporting role-based access and real-time notifications for a mobile commerce app.
-- Created a notification microservice using FastAPI + Redis Pub/Sub.
-- Integrated user analytics tracking and device token-based FCM support.
-
----
-
 ## 🧑‍💻 Work Experience
 
 ### **Backend Engineer (Contract)**
@@ -75,6 +55,26 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Developed RESTful APIs using Django and Node.js for logistics and e-commerce platforms.
 - Implemented authentication systems, payment gateways, and deployment pipelines.
 - Worked closely with mobile engineers to ensure seamless frontend-backend integration.
+
+---
+
+## 🚀 Projects
+
+### 🔹 Tokenized Real Estate Platform – Sofgo
+
+**Tech:** FastAPI, PostgreSQL, Node.js, Docker, JWT, AWS
+
+- Developed and maintained REST APIs for tokenizing real estate assets on a blockchain-integrated backend.
+- Implemented user authentication, multi-role access control, and financial approval workflows.
+- Set up CI/CD pipelines using GitHub Actions and Docker for seamless deployment.
+
+### 🔹 Multi-Tenant Mobile API Backend – Jodna Technologies
+
+**Tech:** FastAPI, MongoDB, Redis, JWT, PM2
+
+- Architected scalable APIs supporting role-based access and real-time notifications for a mobile commerce app.
+- Created a notification microservice using FastAPI + Redis Pub/Sub.
+- Integrated user analytics tracking and device token-based FCM support.
 
 ---
 
