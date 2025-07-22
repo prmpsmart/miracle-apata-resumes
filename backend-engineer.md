@@ -47,7 +47,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ### **Backend Engineer (Contract)**
 
-[ScanifyDev](https://scanifydev.com/) — _2017 Goldfinch Blvd, Princeton, NJ 08540, USA_  
+[ScanifyDev](https://scanifydev.com/) — _NJ, USA_  
 **Sep 2024 – Present**
 
 - Built and deployed backend APIs using Python (FastAPI) and Node.js (Express).
