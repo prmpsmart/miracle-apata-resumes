@@ -27,7 +27,7 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 
 ### 📍 Zent Technologies Limited — _Mobile Engineer_
 
-_Lagos, Nigeria · March 2025 – Present_
+**Location**: _Lagos, Nigeria · March 2025 – Present_
 
 - Developed and maintained the Zent mobile app with Flutter for Android and iOS.
 - Built interactive UI components from design prototypes with smooth transitions.
@@ -39,7 +39,7 @@ _Lagos, Nigeria · March 2025 – Present_
 
 ### 📍 Jodna Technologies — _Senior Mobile Engineer_
 
-_Port Harcourt, Nigeria · June 2024 – January 2025_
+**Location**: _Port Harcourt, Nigeria · June 2024 – January 2025_
 
 - Led development and architectural direction for flagship cross-platform apps.
 - Mentored junior developers and implemented best practices in mobile engineering.
@@ -51,7 +51,7 @@ _Port Harcourt, Nigeria · June 2024 – January 2025_
 
 ### 📍 Jodna Technologies — _Mobile Engineer_
 
-_Port Harcourt, Nigeria · December 2023 – May 2024_
+**Location**: _Port Harcourt, Nigeria · December 2023 – May 2024_
 
 - Maintained and enhanced Flutter-based mobile applications.
 - Integrated REST APIs and delivered responsive, visually engaging user experiences.
@@ -61,7 +61,7 @@ _Port Harcourt, Nigeria · December 2023 – May 2024_
 
 ### 📍 Sofgo — _Mobile Engineer (Part-Time)_
 
-_Ondo, Nigeria · September 2023 – October 2024_
+**Location**: _Ondo, Nigeria · September 2023 – October 2024_
 
 - Built and maintained client-facing Flutter apps for Android and iOS.
 - Delivered features aligned with business goals alongside backend and product teams.
