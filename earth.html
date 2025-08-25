@@ -1,0 +1,37 @@
+<html>
+  <style>
+    .earth {
+      width: 150px;
+      height: 150px;
+      position: absolute;
+      bottom: 0.7rem;
+      right: 0.7rem;
+      z-index: 0;
+      background: url(https://web.archive.org/web/20150807125159if_/http://www.noirextreme.com/digital/Earth-Color4096.jpg);
+      border-radius: 50%;
+      background-size: 300px 150px;
+      box-shadow: inset 4px 18px 40px 18px #000, inset -3px 0 6px 2px #ffffff4d;
+      animation-name: earth-rotate;
+      animation-duration: 12s;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear;
+    }
+
+    @keyframes earth-rotate {
+      0% {
+        background-position: 0 0;
+      }
+      100% {
+        background-position: -300px 0;
+      }
+    }
+  </style>
+  <body>
+    <h1>Earth</h1>
+    <p>
+      Earth is the third planet from the Sun and the only astronomical object
+      known to harbor life.
+    </p>
+    <div class="earth"></div>
+  </body>
+</html>
