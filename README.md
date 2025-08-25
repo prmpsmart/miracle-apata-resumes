@@ -33,3 +33,5 @@ If you'd like to collaborate, hire, or chat about any of these focus areas:
 ---
 
 Made with 💡 and Markdown.
+
+[Free DNS](http://freedns.afraid.org/)
