@@ -27,7 +27,7 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 
 ### 📍 Zent Technologies Limited — _Mobile Engineer_
 
-**Location**: _Lagos, Nigeria · March 2025 – Present_
+**Location**: _Lagos, Nigeria · March 2025 – July 2025_
 
 - Developed and maintained the Zent mobile app with Flutter for Android and iOS.
 - Built interactive UI components from design prototypes with smooth transitions.
