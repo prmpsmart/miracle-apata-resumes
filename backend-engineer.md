@@ -25,21 +25,10 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ## 🧑‍💻 Work Experience
 
-### **Backend Engineer (Contract)**
-
-[ScanifyDev](https://scanifydev.com/) — _NJ, USA_  
-**Sep 2024 – Present**
-
-- Built and deployed backend APIs using Python (FastAPI) and Node.js (Express).
-- Collaborated on blockchain-integrated smart deal approvals and financial workflows.
-- Managed scalable database schemas and CI/CD pipelines.
-
----
-
 ### **Backend Engineer**
 
 [Jodna Technologies](https://www.jodnatechnologies.com/) — _Port Harcourt, Nigeria_  
-**Jun 2024 – Present**
+**December 2024 – Present**
 
 - Led backend architecture for mobile and web platforms using FastAPI and Node.js.
 - Integrated cloud storage, push notifications, and analytics.
@@ -47,10 +36,21 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ---
 
-### **Backend Engineer (Part-Time)**
+### **Backend Engineer (Contract)**
+
+[ScanifyDev](https://scanifydev.com/) — _NJ, USA_  
+**September 2024 – December 2024**
+
+- Built and deployed backend APIs using Python (FastAPI) and Node.js (Express).
+- Collaborated on blockchain-integrated smart deal approvals and financial workflows.
+- Managed scalable database schemas and CI/CD pipelines.
+
+---
+
+### **Backend Engineer (Internship)**
 
 [Sofgo](https://sofgo.io/) — _Ondo, Nigeria_  
-**Sep 2023 – Present**
+**September 2023 – September 2024**
 
 - Developed RESTful APIs using Django and Node.js for logistics and e-commerce platforms.
 - Implemented authentication systems, payment gateways, and deployment pipelines.
@@ -119,7 +119,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 ## 🎓 Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — 2023
+Federal University of Technology, Akure — Graduated 2024
 
 ---
 
@@ -130,5 +130,3 @@ Federal University of Technology, Akure — 2023
 - **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
 
 ---
-
-> Last updated: July 2025

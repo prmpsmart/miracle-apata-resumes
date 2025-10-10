@@ -61,7 +61,7 @@ Experienced desktop software engineer specializing in cross-platform application
 ## 🎓 Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — 2023
+Federal University of Technology, Akure — Graduated 2024
 
 ---
 

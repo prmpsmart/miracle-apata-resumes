@@ -72,7 +72,7 @@ _Remote · 2022 – Present_
 ## 🎓 Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — 2023
+Federal University of Technology, Akure — Graduated 2024
 
 ---
 
@@ -83,5 +83,3 @@ Federal University of Technology, Akure — 2023
 - **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
 
 ---
-
-> Last updated: July 2025

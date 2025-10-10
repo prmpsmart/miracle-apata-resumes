@@ -25,7 +25,22 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 
 ## 🧑‍💼 Experience
 
-### 📍 Zent Technologies Limited — _Mobile Engineer_
+### 📍 Jodna Technologies — _Mobile Engineer_
+
+**Location**: _Port Harcourt, Nigeria · December 2024 – Present_
+
+- Led development and architectural direction for flagship cross-platform apps.
+- Mentored junior developers and implemented best practices in mobile engineering.
+- Reduced app load times by 40% through UI refactoring and smarter API usage.
+- Built a scalable push notification system using Firebase Cloud Messaging.
+- Worked with stakeholders during sprints to ensure timely delivery.
+- Maintained and enhanced Flutter-based mobile applications.
+- Integrated REST APIs and delivered responsive, visually engaging user experiences.
+- Ensured real-time data sync and backend communication reliability.
+
+---
+
+### 📍 Zent Technologies Limited — _Mobile Engineer (Contract)_
 
 **Location**: _Lagos, Nigeria · March 2025 – July 2025_
 
@@ -37,31 +52,9 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 
 ---
 
-### 📍 Jodna Technologies — _Senior Mobile Engineer_
+### 📍 Sofgo — _Mobile Engineer (Internship)_
 
-**Location**: _Port Harcourt, Nigeria · June 2024 – January 2025_
-
-- Led development and architectural direction for flagship cross-platform apps.
-- Mentored junior developers and implemented best practices in mobile engineering.
-- Reduced app load times by 40% through UI refactoring and smarter API usage.
-- Built a scalable push notification system using Firebase Cloud Messaging.
-- Worked with stakeholders during sprints to ensure timely delivery.
-
----
-
-### 📍 Jodna Technologies — _Mobile Engineer_
-
-**Location**: _Port Harcourt, Nigeria · December 2023 – May 2024_
-
-- Maintained and enhanced Flutter-based mobile applications.
-- Integrated REST APIs and delivered responsive, visually engaging user experiences.
-- Ensured real-time data sync and backend communication reliability.
-
----
-
-### 📍 Sofgo — _Mobile Engineer (Part-Time)_
-
-**Location**: _Ondo, Nigeria · September 2023 – October 2024_
+**Location**: _Ondo, Nigeria · September 2023 – September 2024_
 
 - Built and maintained client-facing Flutter apps for Android and iOS.
 - Delivered features aligned with business goals alongside backend and product teams.
@@ -72,7 +65,7 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 ## 🎓 Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — 2023
+Federal University of Technology, Akure — Graduated 2024
 
 ---
 
@@ -83,5 +76,3 @@ Federal University of Technology, Akure — 2023
 - **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
 
 ---
-
-> Last updated: July 2025
