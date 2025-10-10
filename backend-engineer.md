@@ -1,16 +1,12 @@
-# 🖧 Miracle Apata – Backend Engineer
+# Miracle Apata – Backend Engineer
 
-[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com) • Ondo, Nigeria
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
 
----
-
-## 💼 Summary
+## Summary
 
 Skilled backend engineer with expertise in Python and TypeScript, experienced in building secure, scalable, and high-performance APIs for web and mobile platforms. Proven success collaborating across teams, optimizing systems, and deploying production-grade backend solutions using modern architectures and DevOps tools.
 
----
-
-## 🧰 Technical Skills
+## Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, SQL
 - **Frameworks:** FastAPI, Django, Flask, Node.js, Express, NestJS
@@ -21,9 +17,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - **Testing:** Pytest, Jest, Postman, Unit & Integration Testing
 - **CI/CD:** GitHub Actions, Docker Compose, AWS CodePipeline
 
----
-
-## 🧑‍💻 Work Experience
+## Work Experience
 
 ### **Backend Engineer**
 
@@ -34,8 +28,6 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Integrated cloud storage, push notifications, and analytics.
 - Mentored junior backend engineers and enforced best coding practices.
 
----
-
 ### **Backend Engineer (Contract)**
 
 [ScanifyDev](https://scanifydev.com/) — _NJ, USA_  
@@ -44,8 +36,6 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Built and deployed backend APIs using Python (FastAPI) and Node.js (Express).
 - Collaborated on blockchain-integrated smart deal approvals and financial workflows.
 - Managed scalable database schemas and CI/CD pipelines.
-
----
 
 ### **Backend Engineer (Internship)**
 
@@ -56,11 +46,9 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Implemented authentication systems, payment gateways, and deployment pipelines.
 - Worked closely with mobile engineers to ensure seamless frontend-backend integration.
 
----
+## Projects
 
-## 🚀 Projects
-
-### 🔹 **Token Realty Exchange – Decentralized Real Estate Commodities Platform**
+### **Token Realty Exchange – Decentralized Real Estate Commodities Platform**
 
 **Tech:** FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS  
 [https://tokenrealty.exchange](https://tokenrealty.exchange)
@@ -71,9 +59,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Engineered secure, compliant smart contract integrations with DAO oversight and Series LLC asset holding models.
 - Ensured tokens are treated as commodities backed by deeds and mortgage filings—not securities—through strict business logic and validation pipelines.
 
----
-
-### 🔹 **Gamaliel Consult – Corporate Advisory & Mentorship Hub**
+### **Gamaliel Consult – Corporate Advisory & Mentorship Hub**
 
 **Tech:** Node.js, MongoDB, Express, TypeScript  
 [https://www.gamalielconsult.com](https://www.gamalielconsult.com)
@@ -82,9 +68,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Integrated appointment scheduling and mentor matching features.
 - Developed custom role access for mentors, mentees, and admins.
 
----
-
-### 🔹 **TrackMeNg – Mobile Security & Tracking App**
+### **TrackMeNg – Mobile Security & Tracking App**
 
 **Tech:** Node.js, TypeScript, PostgreSQL, JWT  
 [https://home.trackmeng.com](https://home.trackmeng.com)
@@ -93,9 +77,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Implemented live location logging, alert dispatch system, and personnel monitoring for security agents.
 - Built features to support private fleet tracking, user subscriptions, and communication workflows.
 
----
-
-### 🔹 **PDF Webpage – Academic Document Sharing Platform**
+### **PDF Webpage – Academic Document Sharing Platform**
 
 **Tech:** Node.js, TypeScript, MongoDB  
 [https://pdf-webpage-ashy.vercel.app](https://pdf-webpage-ashy.vercel.app)
@@ -104,9 +86,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Enabled document upload, PDF categorization by course, level, and semester.
 - Implemented email capture and notification system for new materials and updates.
 
----
-
-### 🔹 **Multi-Tenant Mobile API Backend – Jodna Technologies**
+### **Multi-Tenant Mobile API Backend – Jodna Technologies**
 
 **Tech:** FastAPI, MongoDB, Redis, JWT, PM2
 
@@ -114,19 +94,13 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Created a notification microservice using FastAPI + Socket.io.
 - Integrated user analytics tracking and device token-based FCM support.
 
----
-
-## 🎓 Education
+## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
 Federal University of Technology, Akure — Graduated 2024
 
----
-
-## 📞 Contact
+## Contact
 
 - **Email:** <prmpsmart@gmail.com>
 - **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
 - **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
-
----

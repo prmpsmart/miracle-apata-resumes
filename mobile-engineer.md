@@ -1,17 +1,12 @@
-# 📱 Miracle Apata – Mobile Engineer
+# Miracle Apata – Mobile Engineer
 
-[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)  
-📍 Ondo, Nigeria • 📞 +2348168524477
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
 
----
-
-## 💼 Summary
+## Summary
 
 Experienced Mobile Engineer specializing in cross-platform app development using Flutter and React Native. Proven ability to architect, build, and maintain scalable mobile apps from idea to deployment. Adept at clean architecture, performance optimization, and integration with RESTful and GraphQL APIs. Comfortable leading teams and collaborating with designers, backend engineers, and product stakeholders.
 
----
-
-## 🧰 Technical Skills
+## Technical Skills
 
 - **Languages:** Dart, Kotlin, JavaScript, TypeScript
 - **Frameworks:** Flutter, React Native, Android SDK, iOS SDK
@@ -21,11 +16,9 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 - **Architecture & Patterns:** Clean Architecture, BLoC, MVVM, MVC, OOP, Integration Testing
 - **Concepts:** REST APIs, GraphQL, Push Notifications, Unit Testing, State Management, Performance Optimization
 
----
+## Experience
 
-## 🧑‍💼 Experience
-
-### 📍 Jodna Technologies — _Mobile Engineer_
+### Jodna Technologies — _Mobile Engineer_
 
 **Location**: _Port Harcourt, Nigeria · December 2024 – Present_
 
@@ -38,9 +31,7 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 - Integrated REST APIs and delivered responsive, visually engaging user experiences.
 - Ensured real-time data sync and backend communication reliability.
 
----
-
-### 📍 Zent Technologies Limited — _Mobile Engineer (Contract)_
+### Zent Technologies Limited — _Mobile Engineer (Contract)_
 
 **Location**: _Lagos, Nigeria · March 2025 – July 2025_
 
@@ -50,9 +41,7 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 - Improved app performance by optimizing state management and reducing load times.
 - Collaborated with designers and backend engineers to ship high-quality features.
 
----
-
-### 📍 Sofgo — _Mobile Engineer (Internship)_
+### Sofgo — _Mobile Engineer (Internship)_
 
 **Location**: _Ondo, Nigeria · September 2023 – September 2024_
 
@@ -60,19 +49,13 @@ Experienced Mobile Engineer specializing in cross-platform app development using
 - Delivered features aligned with business goals alongside backend and product teams.
 - Maintained modular codebases and ensured consistent integration testing.
 
----
-
-## 🎓 Education
+## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
 Federal University of Technology, Akure — Graduated 2024
 
----
-
-## 📞 Contact
+## Contact
 
 - **Email:** [prmpsmart@gmail.com](mailto:prmpsmart@gmail.com)
 - **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
 - **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
-
----

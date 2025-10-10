@@ -1,26 +1,16 @@
-# Desktop Developer Resume
+# Miracle Apata - Desktop Software Engineer
 
-## Miracle Apata
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
 
-Backend & Desktop Software Engineer  
-🇳🇬 Nigeria · github.com/miracle-apata  
-Email: <prmpsmart@gmail.com>
-
----
-
-### 🧠 Summary
+## Summary
 
 Experienced desktop software engineer specializing in cross-platform applications for **Windows** and **macOS** using **Python (PySide6)** and **SwiftUI**. Adept at building multilingual educational tools used by universities, academies, and institutions for standardized testing. Expert in packaging with PyInstaller and Inno Setup and delivering native desktop experiences.
 
----
-
-### 💼 Work Experience
-
-#### **Desktop Software Engineer**
+## Work Experience
 
 **DINATEN** — Santa Cruz de Tenerife, Spain  
-🌐 [https://dinaten.com](https://dinaten.com)  
-📆 **Aug 2023 – Present**
+[https://dinaten.com](https://dinaten.com)  
+**Aug 2023 – Present**
 
 - Developed and maintained [piXeval](https://dinaten.com/descargar-pixeval-2/) and **pixEBAP**, two educational desktop applications for managing and correcting multiple-choice exams.
 - Built apps using **PySide6** (Qt for Python), compiled with **PyInstaller**, and packaged installers with **Inno Setup**.
@@ -34,9 +24,7 @@ Experienced desktop software engineer specializing in cross-platform application
   - Delivery of student results via email
   - Advanced statistics and competency evaluation
 
----
-
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python, Swift (SwiftUI), JavaScript
 - **Frameworks:** PySide6, SwiftUI
@@ -44,9 +32,7 @@ Experienced desktop software engineer specializing in cross-platform application
 - **Platforms:** Windows, macOS
 - **App Languages:** Spanish, English, Catalan, Euskera, French
 
----
-
-## 🧪 Projects
+## Projects
 
 - **piXeval**
 
@@ -56,16 +42,12 @@ Experienced desktop software engineer specializing in cross-platform application
 - **pixEBAP**
   - Internal desktop application used for managing exam forms and student data.
 
----
-
-## 🎓 Education
+## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
 Federal University of Technology, Akure — Graduated 2024
 
----
-
-## 🌍 Languages
+## Languages
 
 - English (Fluent)
 - Spanish (Conversational)
