@@ -105,7 +105,7 @@ Tech: FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS
 
 ### TrackWeNg – Mobile Security & Tracking Platform
 
-Tech: Flutter, SwiftUI, Kotlin Compose
+Tech: Flutter, SwiftUI, Kotlin Compose  
 <https://home.trackmeng.com>
 
 - Developed mobile application for a **real-time mobile tracking and alert platform**.
@@ -116,7 +116,7 @@ Tech: Flutter, SwiftUI, Kotlin Compose
 
 ### Sentinel – Digital Access & Visitor Management Platform
 
-Tech: Node.js, TypeScript, PostgreSQL
+Tech: Node.js, TypeScript, PostgreSQL  
 <https://sentinelsoftware.live>
 
 - Developed mobile application for a **secure access and visitor management platform**.
@@ -155,5 +155,4 @@ Graduated 2024
 
 ## Languages
 
-English — Fluent  
-Spanish — Conversational
+English — Fluent
