@@ -8,8 +8,8 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ## Technical Skills
 
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **Frameworks:** FastAPI, Django, Flask, Node.js, Express, NestJS
+- **Languages:** Python, TypeScript, JavaScript, SQL, C#
+- **Frameworks:** FastAPI, Django, Flask, Node.js, Express, NestJS, ASP.NET
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 - **DevOps & Tools:** Docker, GitHub Actions, AWS, Nginx, Linux, Git, PM2
 - **Architecture:** RESTful APIs, Microservices, WebSockets, Serverless

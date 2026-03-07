@@ -20,17 +20,18 @@ Experienced desktop software engineer specializing in cross-platform application
 - Integrated key features:
   - Bulk import from Word, Excel, and Moodle
   - Generation of up to 9 randomized models of the same exam
-  - Scanning and automatic grading of answer sheets (up to 30 exams/minute)
+  - Scanning and automatic grading of answer sheets (up to 30 exams/minute) using OCR and OMR techniques implemented with OpenCV2, TensorFlow, and other supporting libraries
   - Delivery of student results via email
   - Advanced statistics and competency evaluation
 
 ## Skills
 
-- **Languages:** Python, Swift (SwiftUI), JavaScript
-- **Frameworks:** PySide6, SwiftUI
-- **Tools:** PyInstaller, Inno Setup, Git, macOS development tools
+- **Languages:** Python, Swift (SwiftUI), SQL
+- **Frameworks & Libraries:** PySide6, SwiftUI, OpenCV2, TensorFlow
+- **Tools & Packaging:** PyInstaller, Inno Setup, Git, macOS development tools
 - **Platforms:** Windows, macOS
 - **App Languages:** Spanish, English, Catalan, Euskera, French
+- **Tech Focus:** OCR/OMR, automated exam grading, cross-platform application development
 
 ## Projects
 
