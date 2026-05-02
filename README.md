@@ -8,11 +8,9 @@ This repository contains curated, role-specific resumes written in Markdown form
 
 | Role                 | Filename                                       | Description                                                      |
 | -------------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
-| 🐍 Python Developer  | [python-developer.md](./python-developer.md)   | General-purpose Python experience and scripting work             |
 | 📱 Mobile Engineer   | [mobile-engineer.md](./mobile-engineer.md)     | Flutter-based cross-platform mobile development                  |
 | 🖥️ Desktop Developer | [desktop-developer.md](./desktop-developer.md) | PySide6 and SwiftUI-based apps for Windows and macOS             |
 | 🛠️ Backend Engineer  | [backend-engineer.md](./backend-engineer.md)   | FastAPI, ASP.NET, and Node.js/TypeScript backend systems         |
-| 💻 Software Engineer | [software-engineer.md](./software-engineer.md) | Full-stack and systems development with cross-platform expertise |
 
 ---
 
