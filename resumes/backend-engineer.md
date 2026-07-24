@@ -21,7 +21,7 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 
 ### **Backend Engineer**
 
-[Jodna Technologies](https://www.jodnatechnologies.com/) — _Port Harcourt, Nigeria_  
+[Jodna Technologies](https://jodnatechnologies.com/) — _Port Harcourt, Nigeria_  
 **December 2024 – Present**
 
 - Led backend architecture for mobile and web platforms using FastAPI and Node.js.
@@ -68,10 +68,10 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Integrated appointment scheduling and mentor matching features.
 - Developed custom role access for mentors, mentees, and admins.
 
-### **TrackMeNg – Mobile Security & Tracking App**
+### **Tywn (formerly TrackWeNg) – Backend Platform**
 
 **Tech:** Node.js, TypeScript, PostgreSQL, JWT  
-[https://home.trackmeng.com](https://home.trackmeng.com)
+[https://home.twynapp.org/](https://home.twynapp.org/)
 
 - Developed backend APIs for a real-time tracking and alert system targeting individuals and security companies.
 - Implemented live location logging, alert dispatch system, and personnel monitoring for security agents.
@@ -94,10 +94,29 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Created a notification microservice using FastAPI + Socket.io.
 - Integrated user analytics tracking and device token-based FCM support.
 
+## Personal Projects
+
+### **PriceGrid – Market Price Intelligence API**
+
+**Tech:** FastAPI, PostgreSQL, SQLModel, Redis, Alembic, Docker, pytest, JWT  
+[https://github.com/prmpsmart/price-grid](https://github.com/prmpsmart/price-grid)
+
+- Solo-built backend that tracks prices of everyday goods across vendors and markets, detects price spikes in real time, and surfaces cross-market comparisons — built to address price opacity in informal/local markets.
+- Designed the schema and repository layer (goods, vendors, markets, append-only price records, alerts), using **SQLModel** to unify ORM tables and API response schemas, with Alembic-managed migrations.
+- Built price submission, history, cross-market comparison, and time-windowed trend endpoints, with **Redis** caching the highest-traffic read (`/prices/current`) and invalidating on write.
+- Implemented **spike detection** as a decoupled Redis pub/sub pipeline — the price service publishes spike events and a separate consumer persists alerts, so new delivery channels (email, webhook) can be added without touching the publisher.
+- Enforced **role-based access** (viewer/vendor/admin) with JWT auth and bcrypt password hashing, and covered the system with unit tests (business logic) and integration tests (auth → submit → alert flow).
+- Shipped as a self-contained, fully tested v1 — one-command setup via Docker Compose.
+
 ## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  
 Federal University of Technology, Akure — Graduated 2024
+
+## Languages
+
+- English (Fluent, C1)
+- Spanish (Conversational, B1)
 
 ## Contact
 

@@ -1,4 +1,4 @@
-# Miracle Apata – Software Engineer
+# Miracle Apata — Software Engineer
 
 [GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
 
@@ -103,25 +103,36 @@ Tech: FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS
 
 ---
 
-### TrackWeNg – Mobile Security & Tracking Platform
+### Tywn (formerly TrackWeNg) – Real-Time Safety & Social Location-Sharing App
 
-Tech: Flutter, SwiftUI, Kotlin Compose  
-<https://home.trackmeng.com>
+Tech: Flutter, Socket.IO, Google Maps, Firebase Cloud Messaging  
+<https://home.twynapp.org/>
 
-- Developed mobile application for a **real-time mobile tracking and alert platform**.
-- Implemented live location tracking, emergency alert systems, and security monitoring.
-- Integrated with APIs supporting **fleet tracking, personnel monitoring, and subscription services**.
+- Developed a Flutter mobile app for **real-time location sharing** with trusted contacts, group ("Cliques") chat, and one-tap emergency alerts.
+- Implemented background geolocation tracking and a home-screen widget for quick emergency triggers.
+- Integrated push notifications and Socket.IO-based real-time messaging.
 
 ---
 
-### Sentinel – Digital Access & Visitor Management Platform
+### Sentinel – Smart Community Access Management App
 
-Tech: Node.js, TypeScript, PostgreSQL  
+Tech: Flutter, Socket.IO, Firebase Cloud Messaging, QR Code Scanning  
 <https://sentinelsoftware.live>
 
-- Developed mobile application for a **secure access and visitor management platform**.
-- Implemented digital **visitor registration, sign-in/out workflows, and QR code scanning**.
-- Integrated with APIs supporting **real-time access monitoring, identity verification, and facility security management**.
+- Developed a Flutter mobile app for **digital visitor registration and QR-based check-in/check-out** used by estates, offices, and schools.
+- Built **sub-profile management**, letting residents grant scoped access permissions to dependents.
+- Integrated real-time announcements, broadcasts, and activity logs via Socket.IO, plus Firebase Cloud Messaging push notifications.
+
+---
+
+### Vaultify – Smart Estate Management App
+
+Tech: Flutter, GetX, Socket.IO, Paystack, Firebase Cloud Messaging  
+<https://vaultify.africa>
+
+- Developed a Flutter mobile app letting estate residents **pay dues, generate visitor access codes, and send one-tap emergency alerts** to estate security.
+- Integrated **Paystack** for wallet top-ups and bill payments (airtime, data, cable, electricity).
+- Built real-time chat between residents and estate security using Socket.IO.
 
 ---
 
@@ -147,12 +158,18 @@ Tech: Node.js, MongoDB
 
 ## Education
 
-**B.Eng. Electrical & Electronics Engineering**  
-Federal University of Technology, Akure  
-Graduated 2024
+**B.Eng. in Electrical & Electronics Engineering**  
+Federal University of Technology, Akure — Graduated 2024
 
 ---
 
 ## Languages
 
-English — Fluent
+- English (Fluent, C1)
+- Spanish (Conversational, B1)
+
+## Contact
+
+- **Email:** [prmpsmart@gmail.com](mailto:prmpsmart@gmail.com)
+- **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
+- **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)

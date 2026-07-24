@@ -1,3 +1,8 @@
 .DS_Store
 diff
 *.html
+extras/
+submission/
+
+# internal working notes — not part of the public portfolio
+notes/
