@@ -6,8 +6,8 @@ This repository contains curated, role-specific resumes written in Markdown form
 
 ## 📂 Available Resumes
 
-| Role                  | Filename                                                          | Description                                                             |
-| ---------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Role                        | Filename                                                          | Description                                                             |
+| ---------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 📱 Mobile Engineer    | [resumes/mobile-engineer.md](./resumes/mobile-engineer.md)       | Flutter-based cross-platform mobile development                        |
 | 🛠️ Backend Engineer   | [resumes/backend-engineer.md](./resumes/backend-engineer.md)     | FastAPI, ASP.NET, and Node.js/TypeScript backend systems                |
 | 🐍 Python Developer   | [resumes/python-engineer.md](./resumes/python-engineer.md)       | Python across backend APIs (FastAPI/Django) and PySide6 desktop apps    |
@@ -20,7 +20,7 @@ Each resume is also available as a PDF in [`pdfs/`](./pdfs), regenerated from th
 
 ## 🏆 Recognition
 
-<img src="images/miracle_trackweng_award.jpg" alt="Certificate of Recognition — Outstanding Technical Contribution, TrackWeNg, December 2025" width="600">
+![Certificate of Recognition — Outstanding Technical Contribution, TrackWeNg, December 2025](images/miracle_trackweng_award.jpg)
 
 _Certificate of Recognition — Outstanding Technical Contribution, awarded by TrackWeNg (December 2025) for contributions to building the platform now known as [Tywn](https://home.twynapp.org/)._
 
@@ -31,7 +31,7 @@ _Certificate of Recognition — Outstanding Technical Contribution, awarded by T
 - Clone or browse the repo to view resumes per role under [`resumes/`](./resumes).
 - Copy or fork to reuse the Markdown templates for your own portfolio.
 - Click on individual `.md` files to view each resume directly in GitHub, or grab the matching PDF from [`pdfs/`](./pdfs).
-- To regenerate the PDFs after editing a resume: `python3 generate_pdfs.py` (requires the `markdown` package and Google Chrome).
+- To regenerate the PDFs after editing a resume: `python3 generate_pdfs.py` (requires `pandoc` and `typst`, e.g. `brew install pandoc typst`).
 
 ---
 
