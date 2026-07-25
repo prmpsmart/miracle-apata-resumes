@@ -156,6 +156,12 @@ Tech: Node.js, MongoDB
 
 ---
 
+## Certifications
+
+- **Python Developer Certification** — freeCodeCamp, July 2026 — [verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9)
+
+---
+
 ## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  

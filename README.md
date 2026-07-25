@@ -18,11 +18,15 @@ Each resume is also available as a PDF in [`pdfs/`](./pdfs), regenerated from th
 
 ---
 
-## 🏆 Recognition
+## 🏆 Recognition & Certifications
 
 ![Certificate of Recognition — Outstanding Technical Contribution, TrackWeNg, December 2025](images/miracle_trackweng_award.jpg)
 
 _Certificate of Recognition — Outstanding Technical Contribution, awarded by TrackWeNg (December 2025) for contributions to building the platform now known as [Tywn](https://home.twynapp.org/)._
+
+![freeCodeCamp Python Developer Certification, July 2026](images/miracle_python_certification.png)
+
+_[Python Developer Certification](https://www.freecodecamp.org/certification/prmpsmart/python-v9) — freeCodeCamp, July 2026 (~300 hours)._
 
 ---
 

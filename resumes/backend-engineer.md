@@ -108,6 +108,10 @@ Skilled backend engineer with expertise in Python and TypeScript, experienced in
 - Enforced **role-based access** (viewer/vendor/admin) with JWT auth and bcrypt password hashing, and covered the system with unit tests (business logic) and integration tests (auth → submit → alert flow).
 - Shipped as a self-contained, fully tested v1 — one-command setup via Docker Compose.
 
+## Certifications
+
+- **Python Developer Certification** — freeCodeCamp, July 2026 — [verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9)
+
 ## Education
 
 **B.Eng. in Electrical & Electronics Engineering**  

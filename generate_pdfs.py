@@ -29,9 +29,12 @@ RESUME_FILES = [
 # nesting to populate the typst template's `margin` dict.
 PANDOC_ARGS = [
     "--pdf-engine=typst",
-    "-V", "margin.x=2.2cm",
-    "-V", "margin.y=2cm",
-    "-V", "fontsize=10.5pt",
+    "-V",
+    "margin.x=2.2cm",
+    "-V",
+    "margin.y=2cm",
+    "-V",
+    "fontsize=10.5pt",
 ]
 
 
