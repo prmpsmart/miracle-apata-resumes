@@ -4,6 +4,29 @@ This repository contains curated, role-specific resumes written in Markdown form
 
 ---
 
+## 👋 About Me
+
+I'm **Miracle Apata**, a software engineer who moves fluidly across mobile, backend, and desktop development rather than staying boxed into one lane. My work spans Flutter for cross-platform mobile apps, FastAPI/ASP.NET/Node.js for backend systems, Python for both APIs and desktop tooling, and PySide6/SwiftUI for native desktop experiences.
+
+I built this repo because a single one-size-fits-all resume doesn't do justice to that range — each file here is tailored to a specific role so it speaks directly to what that position actually needs, instead of making a reviewer dig for it.
+
+<!-- Optional: replace with your own line(s) — e.g. what you're currently focused on, what kind of teams/projects you're looking for. -->
+
+---
+
+## 🛠️ Engineering Principles
+
+I care about software that:
+
+- Solves the real problem, not just the ticket
+- Stays readable and maintainable as it grows
+- Handles edge cases and failure without drama
+- Performs well across the platforms it targets
+
+<!-- Optional: adjust or extend this list to reflect how you actually work. -->
+
+---
+
 ## 📂 Available Resumes
 
 | Role                        | Filename                                                          | Description                                                             |
