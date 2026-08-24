@@ -1,4 +1,4 @@
-**To:** hello@embary.com
+**To:** <hello@embary.com>
 **Subject:** Flutter Developer – Mobile Product – Miracle Apata
 
 ---
@@ -17,12 +17,12 @@ A few things that map closely to this role:
 
 **Portfolio**
 
-- GitHub: https://github.com/prmpsmart
-- Vaultify (App Store): https://apps.apple.com/ng/app/vaultify-estate-app/id6751677794
-- Sentinel (App Store): https://apps.apple.com/us/app/sentinel-acess-management/id6758545811
-- Tywn (App Store): https://apps.apple.com/us/app/tywn-formerly-trackweng/id6741412135
-- Tywn (Play Store): https://play.google.com/store/apps/details?id=com.wetrack.ng
-- Zent (Play Store): https://play.google.com/store/apps/details?id=pro.zent.zent_mobile_app
+- GitHub: <https://github.com/prmpsmart>
+- Vaultify (App Store): <https://apps.apple.com/ng/app/vaultify-estate-app/id6751677794>
+- Sentinel (App Store): <https://apps.apple.com/us/app/sentinel-acess-management/id6758545811>
+- Tywn (App Store): <https://apps.apple.com/us/app/tywn-formerly-trackweng/id6741412135>
+- Tywn (Play Store): <https://play.google.com/store/apps/details?id=com.wetrack.ng>
+- Zent (Play Store): <https://play.google.com/store/apps/details?id=pro.zent.zent_mobile_app>
 - Full resume (PDF): attached
 
 **Availability:** [Fill in — e.g. "Immediately" / start date]
@@ -32,5 +32,5 @@ Happy to share more code samples or walk through architecture decisions on a cal
 
 Best,
 Miracle Apata
-prmpsmart@gmail.com
-https://linkedin.com/in/prmpsmart
+<prmpsmart@gmail.com>
+<https://linkedin.com/in/prmpsmart>
