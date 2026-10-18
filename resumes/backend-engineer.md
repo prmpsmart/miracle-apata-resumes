@@ -21,9 +21,9 @@ Backend engineer building secure, real-time APIs in **Python (FastAPI, Django) a
 
 _All engagements are remote and held concurrently._
 
-**Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+**Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Canada (Remote) · _May 2026 – Present_
 
-- Building the Jorly travel-booking API in FastAPI and PostgreSQL: provider search and pricing, Paystack/Flutterwave payments, group travel, JWT auth, and Celery background jobs. In development.
+- Building the Jorly travel-booking API in FastAPI and PostgreSQL: Sabre-backed flight, hotel and car search, Paystack/Flutterwave payments, group travel, JWT auth, and Celery background jobs. In development.
 
 **Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
@@ -53,7 +53,7 @@ _All engagements are remote and held concurrently._
 
 **Jorly API** _(in development)_ — _Python 3.13, FastAPI, SQLModel, PostgreSQL, Redis, Celery, Docker_
 
-- REST API for a travel booking platform that searches and prices through a third-party affiliate API, takes payment (Paystack, Flutterwave), and only then creates the booking; in-progress searches live in Redis with a TTL.
+- REST API for a travel booking platform that searches and books through Sabre (domestic and international flights alike, Nigerian market first) behind swappable provider adapters, takes payment (Paystack, Flutterwave), and only then creates the booking; in-progress searches live in Redis with a TTL.
 - Layered architecture (routes, services, repositories), own JWT access/refresh auth, Celery beat jobs, FCM push, group-travel state, Alembic migrations, and pytest suite; documented as a handover reference.
 
 **[Tywn](https://home.twynapp.org/) backend** — _Node.js, TypeScript, PostgreSQL, JWT_

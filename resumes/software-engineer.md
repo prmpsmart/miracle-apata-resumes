@@ -21,7 +21,7 @@ Software engineer who ships end to end across **backend, mobile, and desktop**: 
 
 _All engagements are remote and held concurrently._
 
-**Mobile & Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+**Mobile & Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Canada (Remote) · _May 2026 – Present_
 
 - Building the Jorly travel-booking platform end to end: Flutter app and FastAPI backend with Paystack/Flutterwave payments, Redis, and Celery. In development.
 

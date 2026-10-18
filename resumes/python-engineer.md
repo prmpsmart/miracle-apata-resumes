@@ -19,7 +19,7 @@ Python engineer who started programming with Python in 2018/2019 (self-taught) a
 
 _All engagements are remote and held concurrently._
 
-**Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+**Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Canada (Remote) · _May 2026 – Present_
 
 - Building the Jorly travel-booking API in FastAPI, SQLModel, PostgreSQL, Redis, and Celery (Docker, pytest); in development.
 
@@ -47,7 +47,7 @@ _All engagements are remote and held concurrently._
 ### Backend / API
 
 - **Multi-Tenant Mobile API Backend (Jodna)** — _FastAPI, MongoDB, Redis, JWT, PM2._ Role-based APIs with real-time notifications for a mobile commerce app.
-- **Jorly API** _(in development)_ — _FastAPI, SQLModel, PostgreSQL, Redis, Celery, Docker, pytest._ Travel-booking backend: provider search and pricing, Paystack/Flutterwave payments, group travel, JWT auth, and background jobs.
+- **Jorly API** _(in development)_ — _FastAPI, SQLModel, PostgreSQL, Redis, Celery, Docker, pytest._ Travel-booking backend: Sabre-backed flight, hotel and car search, Paystack/Flutterwave payments, group travel, JWT auth, and background jobs.
 - **[PriceGrid](https://github.com/prmpsmart/price-grid)** _(solo)_ — _FastAPI, SQLModel, PostgreSQL, Redis, Alembic, Docker, pytest._ Market price-intelligence API with Redis pub/sub spike detection, cached reads, RBAC, and unit and integration tests.
 - **Temp_dev_db** — _FastAPI, Docker._ REST API that issues time-limited development databases, with API-key user management.
 

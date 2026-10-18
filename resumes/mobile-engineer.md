@@ -21,7 +21,7 @@ Senior mobile engineer building production **Flutter** apps (plus Kotlin, Swift,
 
 _All engagements are remote and held concurrently._
 
-**Mobile Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+**Mobile Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Canada (Remote) · _May 2026 – Present_
 
 - Building the Jorly travel-booking app (flights, hotels, car rentals) in Flutter with Cubit, `go_router`, and typed `Either` repositories; Paystack and Flutterwave checkout, FCM push, and Google/Apple sign-in. In development.
 
