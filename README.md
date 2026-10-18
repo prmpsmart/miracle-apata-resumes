@@ -6,7 +6,7 @@ This repository contains curated, role-specific resumes written in Markdown form
 
 ## 👋 About Me
 
-I'm **Miracle Apata**, a software engineer who moves fluidly across mobile, backend, and desktop development rather than staying boxed into one lane. My work spans Flutter for cross-platform mobile apps, FastAPI/ASP.NET/Node.js for backend systems, Python for both APIs and desktop tooling, and PySide6/SwiftUI for native desktop experiences. I started programming with Python — self-taught after a CSC 201 course in 2018/2019 — and I work remotely with teams in Nigeria, Spain, and the USA, and have hands-on experience experimenting with C, C++, and OCaml.
+I'm **Miracle Apata**, a software engineer who moves fluidly across mobile, backend, and desktop development rather than staying boxed into one lane. My work spans Flutter for cross-platform mobile apps, FastAPI/ASP.NET/Node.js for backend systems, Python for both APIs and desktop tooling, and PySide6/SwiftUI for native desktop experiences. I started programming with Python — self-taught after a CSC 201 course in 2018/2019 — and I work remotely with teams in Nigeria, Canada, Spain, and the USA, and have hands-on experience experimenting with C, C++, and OCaml.
 
 I built this repo because a single one-size-fits-all resume doesn't do justice to that range — each file here is tailored to a specific role so it speaks directly to what that position actually needs, instead of making a reviewer dig for it.
 

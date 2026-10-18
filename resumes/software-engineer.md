@@ -5,7 +5,7 @@ Akure, Nigeria (WAT, UTC+1) · Remote · Open to remote roles
 
 ## Summary
 
-Software engineer who ships end to end across **backend, mobile, and desktop**: FastAPI and Node.js services, Flutter apps live on the App Store and Play Store, and PySide6/SwiftUI desktop software used by universities and academies. Self-taught from Python in 2018/2019; professional since 2023, working remotely with teams in Nigeria, Spain, and the USA. Early member of a young software company, where I own backend and lead mobile across client projects.
+Software engineer who ships end to end across **backend, mobile, and desktop**: FastAPI and Node.js services, Flutter apps live on the App Store and Play Store, and PySide6/SwiftUI desktop software used by universities and academies. Self-taught from Python in 2018/2019; professional since 2023, working remotely with teams in Nigeria, Canada, Spain, and the USA. Early member of a young software company, where I own backend and lead mobile across client projects.
 
 ## Technical Skills
 
