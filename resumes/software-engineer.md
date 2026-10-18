@@ -1,181 +1,66 @@
 # Miracle Apata — Software Engineer
 
-[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com) • [Portfolio](https://prmpsmart.github.io) • +234 816 852 4477  
+Akure, Nigeria (WAT, UTC+1) · Remote · Open to remote roles
 
 ## Summary
 
-Software Engineer with experience building **backend systems, mobile platforms, and cross-platform desktop applications**. Skilled in designing scalable APIs, real-time systems, and production software used by educational institutions, fintech platforms, and mobile services. Experienced with **Python, TypeScript, Node.js, Flutter, and Swift**, with strong knowledge of distributed systems, authentication, and cloud deployment.
-
-Proven ability to design full software platforms end-to-end, from backend infrastructure to client applications across **web, mobile, and desktop environments**.
-
----
+Software engineer who ships end to end across **backend, mobile, and desktop**: FastAPI and Node.js services, Flutter apps live on the App Store and Play Store, and PySide6/SwiftUI desktop software used by universities and academies. Self-taught from Python in 2018/2019; professional since 2023, working remotely with teams in Nigeria, Spain, and the USA. Early member of a young software company, where I own backend and lead mobile across client projects.
 
 ## Technical Skills
 
-- Languages: Python, TypeScript, JavaScript, Dart, Swift, SQL, C#
-- Backend & APIs: FastAPI, Django, Flask, Node.js, Express, NestJS, ASP.NET
-- Mobile Development: Flutter (Android), REST API integration
-- Desktop Development: Python (PySide6 / Qt), SwiftUI, Cross-platform Windows/macOS development
-- Databases: PostgreSQL, MongoDB, MySQL, Redis
-- DevOps & Infrastructure: Docker, GitHub Actions, AWS, Linux, Nginx, PM2, Docker Compose
-- Architecture: REST APIs, Microservices, WebSockets, Multi-tenant systems, Serverless
-- Authentication & Security: JWT, OAuth2, Session Authentication, RBAC
-- Testing: Pytest, Jest, Postman, Unit & Integration Testing
+- **Languages:** Python, TypeScript, JavaScript, Dart, Kotlin, Swift, SQL, C# · _Familiar (hands-on experimentation):_ C, C++, OCaml
+- **Backend:** FastAPI, Django, Flask, Node.js, Express, NestJS, ASP.NET · REST, WebSockets, microservices, multi-tenant systems
+- **Mobile:** Flutter (Android & iOS; primary), BLoC / GetX, Socket.IO, Firebase Cloud Messaging, Kotlin, Swift, React Native
+- **Desktop:** PySide6 / Qt, SwiftUI, PyInstaller, Inno Setup (Windows & macOS)
+- **Data:** PostgreSQL, MongoDB, MySQL, Redis
+- **DevOps & Security:** Docker, GitHub Actions, AWS, Linux, Nginx, PM2 · JWT, OAuth2, RBAC
+- **Testing:** Pytest, Jest, Postman, unit and integration testing
 
----
+## Experience
 
-## Work Experience
+_All engagements are remote and held concurrently._
 
-### Software Engineer
+**Senior Mobile & Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
-#### Jodna Technologies — Port Harcourt, Nigeria
+- Early member of a young software company delivering client projects; started by owning all backend work, then took over mobile development alongside it.
+- Led mobile development of three production **Flutter** apps (Vaultify, Sentinel, Tywn) through App Store and Play Store release; cut load times by ~40% through UI refactoring and API optimization.
+- Architected shared real-time and push infrastructure (Socket.IO, FCM) and led backend design on **FastAPI and Node.js** (authentication, RBAC, analytics).
+- Mentored junior engineers and introduced clean architecture practices.
 
-<https://jodnatechnologies.com>  
-**Dec 2024 – Present**
+**Desktop Software Engineer** · [DINATEN](https://dinaten.com) · Santa Cruz de Tenerife, Spain (Remote) · _Aug 2023 – Present_
 
-- Led backend architecture for mobile and web platforms using **FastAPI and Node.js**.
-- Designed scalable APIs supporting authentication, role-based access control, and analytics.
-- Implemented **real-time notifications**, push messaging, and event-driven backend services.
-- Integrated cloud storage, payment systems, and monitoring tools.
-- Mentored junior developers and improved backend engineering standards.
+- Develop and maintain **piXeval** and **pixEBAP**, exam-correction desktop apps used by academic institutions, built with **PySide6**, packaged with PyInstaller and Inno Setup, plus a native **macOS version in SwiftUI**.
+- Automated scanning and grading (OCR/OMR with OpenCV2 and TensorFlow) of up to **30 exams per minute**; bulk import from Word, Excel, and Moodle; email delivery of results.
+- Localized into Catalan, Spanish, English, Euskera, and French.
+- Sole developer of the ground-up **rebuild of piXeval** (in progress): a Qt-free Python engine, a FastAPI HTTP/WebSocket backend, a React + TypeScript UI, and Qt WebEngine / pywebview desktop shells (40k+ lines of Python, 79 test files). Exams, documents, exports, and CAT3 answer-sheet generation (PDF, barcodes, print runs) are done, including a modular rewrite of the sheet-generation scripts supplied by DINATEN's owner.
 
----
+**Freelance Software Developer** · Remote · _2020 – Present_
 
-### Backend Engineer (Contract)
+- Delivered backend APIs, automation scripts, and data-processing tools for clients in Nigeria and internationally.
 
-#### ScanifyDev — New Jersey, USA
+**Mobile Engineer (Contract)** · [Zent Technologies Limited](https://joinzent.com) · Lagos, Nigeria (Remote) · _Mar 2025 – Jul 2025_
 
-<https://scanifydev.com>  
-**Sep 2024 – Dec 2024**
+- Developed the Zent mobile app in Flutter (Android and iOS), integrating real-time order tracking, inventory management, and payment workflows.
 
-- Developed backend APIs using **Python (FastAPI)** and **Node.js (Express)**.
-- Built systems supporting **blockchain-integrated financial approvals and smart deals**.
-- Designed scalable database schemas and automated CI/CD pipelines.
-- Implemented authentication, financial workflows, and secure API integrations.
+**Backend & Mobile Engineer** · [Sofgo](https://sofgo.io) · Ondo, Nigeria (Remote) · _Sep 2023 – Sep 2024_
 
----
+- Built REST APIs (Django, Node.js) for logistics and e-commerce platforms, with payment gateways and authentication.
+- Built and maintained production Flutter apps for Android and iOS alongside the backend team.
 
-### Backend Engineer (Internship)
+## Selected Projects
 
-#### Sofgo — Ondo, Nigeria
+- **[Vaultify](https://vaultify.africa)** — Flutter estate-management app: Paystack wallet and bill payments, QR access codes, and real-time resident–security chat (Socket.IO).
+- **[Tywn](https://home.twynapp.org/)** (formerly TrackWeNg) — Flutter safety app: live location sharing, group chat, one-tap emergency alerts, background geolocation, and a home-screen widget.
+- **[Sentinel](https://sentinelsoftware.live)** — Flutter access-management app: QR visitor check-in/out, scoped sub-profiles, real-time announcements.
+- **OxyTrack** ([HealthPort Africa](https://healthportafrica.com)) — Flutter app tracking medical oxygen cylinders through their full lifecycle with QR and NFC identification and audit workflows.
+- **[PriceGrid](https://github.com/prmpsmart/price-grid)** _(personal)_ — FastAPI, PostgreSQL, Redis: decoupled pub/sub spike alerts, cached reads, RBAC, unit and integration tests.
+- **[SnapGrade](https://github.com/prmpsmart/snapgrade)** _(personal)_ — PySide6 + OpenCV app that generates, scans, and grades multiple-choice sheets via OMR.
 
-<https://sofgo.io>  
-**Sep 2023 – Sep 2024**
+## Education, Recognition & Certifications
 
-- Developed REST APIs for **logistics and e-commerce platforms** using **Django and Node.js**.
-- Implemented payment gateways, authentication systems, and backend services.
-- Collaborated closely with mobile engineers to ensure seamless API integration.
-
----
-
-### Desktop Software Engineer
-
-#### DINATEN — Santa Cruz de Tenerife, Spain
-
-<https://dinaten.com>  
-**Aug 2023 – Present**
-
-- Developed and maintained **piXeval** and **pixEBAP**, desktop applications used by academic institutions for automated exam correction and evaluation.
-- Built cross-platform applications using **Python (PySide6 / Qt)**.
-- Packaged production builds using **PyInstaller** and distributed installers with **Inno Setup**.
-- Built and maintained a **macOS native version** of piXeval using **SwiftUI**.
-- Implemented features including:
-  - Automated exam scanning and grading (up to **30 exams per minute**)
-  - Bulk import from Word, Excel, and Moodle
-  - Randomized exam model generation
-  - Email delivery of student results
-  - Advanced statistical performance analysis
-- Localized the application into **Catalan, Spanish, English, Euskera, and French**.
-
----
-
-## Projects
-
-### Token Realty Exchange – Decentralized Real Estate Commodities Platform
-
-Tech: FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS  
-<https://tokenrealty.exchange>
-
-- Built backend infrastructure for a decentralized platform enabling tokenization of real estate equity.
-- Implemented **multi-role authentication and financial approval workflows**.
-- Designed KYC/AML verification pipelines and asset token creation APIs.
-- Integrated smart contract systems and DAO oversight logic.
-
----
-
-### Tywn (formerly TrackWeNg) – Real-Time Safety & Social Location-Sharing App
-
-Tech: Flutter, Socket.IO, Google Maps, Firebase Cloud Messaging  
-<https://home.twynapp.org/>
-
-- Developed a Flutter mobile app for **real-time location sharing** with trusted contacts, group ("Cliques") chat, and one-tap emergency alerts.
-- Implemented background geolocation tracking and a home-screen widget for quick emergency triggers.
-- Integrated push notifications and Socket.IO-based real-time messaging.
-
----
-
-### Sentinel – Smart Community Access Management App
-
-Tech: Flutter, Socket.IO, Firebase Cloud Messaging, QR Code Scanning  
-<https://sentinelsoftware.live>
-
-- Developed a Flutter mobile app for **digital visitor registration and QR-based check-in/check-out** used by estates, offices, and schools.
-- Built **sub-profile management**, letting residents grant scoped access permissions to dependents.
-- Integrated real-time announcements, broadcasts, and activity logs via Socket.IO, plus Firebase Cloud Messaging push notifications.
-
----
-
-### Vaultify – Smart Estate Management App
-
-Tech: Flutter, GetX, Socket.IO, Paystack, Firebase Cloud Messaging  
-<https://vaultify.africa>
-
-- Developed a Flutter mobile app letting estate residents **pay dues, generate visitor access codes, and send one-tap emergency alerts** to estate security.
-- Integrated **Paystack** for wallet top-ups and bill payments (airtime, data, cable, electricity).
-- Built real-time chat between residents and estate security using Socket.IO.
-
----
-
-### Gamaliel Consult – Mentorship & Advisory Platform
-
-Tech: Node.js, Express, MongoDB, TypeScript  
-<https://www.gamalielconsult.com>
-
-- Developed REST APIs for a mentorship and consultancy platform.
-- Implemented appointment scheduling, mentor matching, and role-based access control.
-
----
-
-### PDF Webpage – Academic Material Sharing Platform
-
-Tech: Node.js, MongoDB  
-<https://pdf-webpage-ashy.vercel.app>
-
-- Built backend services for a student document sharing platform.
-- Implemented PDF uploads, course categorization, and notification systems.
-
----
-
-## Certifications
-
-- **Python Developer Certification** — freeCodeCamp, July 2026 — [verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9)
-
----
-
-## Education
-
-**B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — Graduated 2024
-
----
-
-## Languages
-
-- English (Fluent, C1)
-- Spanish (Conversational, B1)
-
-## Contact
-
-- **Email:** [prmpsmart@gmail.com](mailto:prmpsmart@gmail.com)
-- **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
-- **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
+- **B.Eng. Electrical & Electronics Engineering**, Federal University of Technology, Akure — 2024
+- **Outstanding Technical Contribution**, TrackWeNg (now Tywn) — Certificate of Recognition, Dec 2025
+- **Python Developer Certification**, freeCodeCamp — Jul 2026 ([verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9))
+- **Publication:** _Blast Design Using Artificial Neural Network Approach and Langefors-Kihlstrom Bench Blast Model_ ([read](https://www.academia.edu/104693441/BLAST_DESIGN_USING_ARTIFICIAL_NEURAL_NETWORK_APPROACH_AND_LANGEFORS_KIHLSTROM_BENCH_BLAST_MODEL))
+- **Languages:** English (fluent, C1), Spanish (conversational, B1)

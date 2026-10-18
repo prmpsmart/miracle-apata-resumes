@@ -6,7 +6,7 @@ This repository contains curated, role-specific resumes written in Markdown form
 
 ## 👋 About Me
 
-I'm **Miracle Apata**, a software engineer who moves fluidly across mobile, backend, and desktop development rather than staying boxed into one lane. My work spans Flutter for cross-platform mobile apps, FastAPI/ASP.NET/Node.js for backend systems, Python for both APIs and desktop tooling, and PySide6/SwiftUI for native desktop experiences.
+I'm **Miracle Apata**, a software engineer who moves fluidly across mobile, backend, and desktop development rather than staying boxed into one lane. My work spans Flutter for cross-platform mobile apps, FastAPI/ASP.NET/Node.js for backend systems, Python for both APIs and desktop tooling, and PySide6/SwiftUI for native desktop experiences. I started programming with Python — self-taught after a CSC 201 course in 2018/2019 — and I work remotely with teams in Nigeria, Spain, and the USA, and have hands-on experience experimenting with C, C++, and OCaml.
 
 I built this repo because a single one-size-fits-all resume doesn't do justice to that range — each file here is tailored to a specific role so it speaks directly to what that position actually needs, instead of making a reviewer dig for it.
 
@@ -33,11 +33,11 @@ I care about software that:
 | ---------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 📱 Mobile Engineer    | [resumes/mobile-engineer.md](./resumes/mobile-engineer.md)       | Flutter-based cross-platform mobile development                        |
 | 🛠️ Backend Engineer   | [resumes/backend-engineer.md](./resumes/backend-engineer.md)     | FastAPI, ASP.NET, and Node.js/TypeScript backend systems                |
-| 🐍 Python Developer   | [resumes/python-engineer.md](./resumes/python-engineer.md)       | Python across backend APIs (FastAPI/Django) and PySide6 desktop apps    |
+| 🐍 Python Engineer   | [resumes/python-engineer.md](./resumes/python-engineer.md)       | Python across backend APIs (FastAPI/Django) and PySide6 desktop apps    |
 | 🖥️ Desktop Developer  | [resumes/desktop-engineer.md](./resumes/desktop-engineer.md)     | PySide6 and SwiftUI-based apps for Windows and macOS                    |
 | 💻 Software Engineer  | [resumes/software-engineer.md](./resumes/software-engineer.md)   | Full-stack and systems development with cross-platform expertise        |
 
-Each resume is also available as a PDF in [`pdfs/`](./pdfs), regenerated from the Markdown via `generate_pdfs.py`.
+Each resume is also available as a two-page PDF in [`pdfs/`](./pdfs) (`Miracle-Apata-<Role>.pdf`), regenerated from the Markdown via `generate_pdfs.py`. For projects, case studies, and live apps, see the portfolio at [prmpsmart.github.io](https://prmpsmart.github.io).
 
 ---
 
@@ -55,8 +55,7 @@ _[Python Developer Certification](https://www.freecodecamp.org/certification/prm
 
 ## 🔎 Usage
 
-- Clone or browse the repo to view resumes per role under [`resumes/`](./resumes).
-- Copy or fork to reuse the Markdown templates for your own portfolio.
+- Browse the repo to view resumes per role under [`resumes/`](./resumes).
 - Click on individual `.md` files to view each resume directly in GitHub, or grab the matching PDF from [`pdfs/`](./pdfs).
 - To regenerate the PDFs after editing a resume: `python3 generate_pdfs.py` (requires `pandoc` and `typst`, e.g. `brew install pandoc typst`).
 

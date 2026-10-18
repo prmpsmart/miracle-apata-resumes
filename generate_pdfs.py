@@ -17,7 +17,6 @@ RESUMES_DIR = REPO_ROOT / "resumes"
 PDF_DIR = REPO_ROOT / "pdfs"
 
 RESUME_FILES = [
-    REPO_ROOT / "README.md",
     RESUMES_DIR / "mobile-engineer.md",
     RESUMES_DIR / "backend-engineer.md",
     RESUMES_DIR / "desktop-engineer.md",
@@ -30,17 +29,17 @@ RESUME_FILES = [
 PANDOC_ARGS = [
     "--pdf-engine=typst",
     "-V",
-    "margin.x=2.2cm",
+    "margin.x=1.9cm",
     "-V",
-    "margin.y=2cm",
+    "margin.y=1.7cm",
     "-V",
-    "fontsize=10.5pt",
+    "fontsize=10pt",
 ]
 
 
 def convert(md_path: Path, out_path: Path) -> None:
-    # cwd=REPO_ROOT so root-relative asset paths (e.g. images/... in
-    # README.md) resolve the same way GitHub renders them in place.
+    # cwd=REPO_ROOT so root-relative asset paths resolve the same way
+    # GitHub renders them in place.
     subprocess.run(
         ["pandoc", str(md_path), "-o", str(out_path), *PANDOC_ARGS],
         check=True,
@@ -56,7 +55,8 @@ def main() -> None:
         if not md_path.exists():
             print(f"skip (not found): {md_path.relative_to(REPO_ROOT)}")
             continue
-        out_path = PDF_DIR / (md_path.stem + ".pdf")
+        name = "-".join(w.capitalize() for w in md_path.stem.split("-"))
+        out_path = PDF_DIR / f"Miracle-Apata-{name}.pdf"
         convert(md_path, out_path)
         print(f"generated: pdfs/{out_path.name}")
 

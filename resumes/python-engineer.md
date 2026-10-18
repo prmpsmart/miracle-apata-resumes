@@ -1,143 +1,64 @@
-# Miracle Apata – Python Developer
+# Miracle Apata — Python Engineer
 
-[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com) • [Portfolio](https://prmpsmart.github.io) • +234 816 852 4477  
+Akure, Nigeria (WAT, UTC+1) · Remote · Open to remote roles
 
 ## Summary
 
-Creative and reliable Python developer with a strong background in backend systems, automation tools, API development, and desktop applications using PySide6. Proven experience delivering scalable applications, writing clean code, and solving real-world problems for clients. Comfortable working independently or in a team, with a strong focus on quality and performance.
+Python engineer who started programming with Python in 2018/2019 (self-taught) and now uses it across production **backend APIs (FastAPI, Django)**, **PySide6 desktop applications**, and computer-vision tooling (OpenCV). Delivered systems for fintech, logistics, and education, including exam-grading software used by universities across Spain. Writes tested, maintainable code and works well independently or in remote teams.
 
 ## Technical Skills
 
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks/Libraries:** FastAPI, Django, Flask, Pandas, NumPy, Requests, Pytest, PySide6
-- **Tools:** Git, Docker, PostgreSQL, MySQL, Linux, GitHub Actions
-- **Other:** REST API Design, Web Scraping, Automation, CLI Tools, Desktop GUI Development
+- **Languages:** Python, SQL, JavaScript
+- **Backend:** FastAPI, Django, Flask, SQLModel, REST API design, Socket.IO
+- **Desktop & CV:** PySide6 / Qt, OpenCV, TensorFlow, PyInstaller
+- **Data & automation:** Pandas, NumPy, Web scraping, CLI tools, Excel/CSV workflows
+- **Databases & tools:** PostgreSQL, MySQL, Redis, Docker, Linux, Git, GitHub Actions, Pytest
 
-## Work Experience
+## Experience
 
-**Backend Engineer** — [Jodna Technologies](https://jodnatechnologies.com/)  
-_Port Harcourt, Nigeria · December 2024 – Present_
+_All engagements are remote and held concurrently._
 
-- Led backend architecture for mobile and web platforms using **FastAPI**, designing scalable APIs for authentication, role-based access control, and analytics.
-- Built a notification microservice on **FastAPI + Socket.IO** with device token-based FCM support.
-- Mentored junior backend engineers and enforced best coding practices.
+**Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
-**Backend Engineer (Contract)** — [ScanifyDev](https://scanifydev.com/)  
-_NJ, USA · September 2024 – December 2024_
+- Early member of a young software company delivering client projects; initially owned all backend work.
+- Led backend architecture for mobile and web platforms on **FastAPI**: authentication, role-based access control, analytics.
+- Built a notification microservice on **FastAPI + Socket.IO** with device-token FCM support; mentored junior backend engineers.
 
-- Built and deployed backend APIs using **Python (FastAPI)**, supporting blockchain-integrated smart deal approvals and financial workflows.
-- Managed scalable database schemas and CI/CD pipelines.
+**Desktop Software Engineer** · [DINATEN](https://dinaten.com) · Santa Cruz de Tenerife, Spain (Remote) · _Aug 2023 – Present_
 
-**Backend Engineer (Internship)** — [Sofgo](https://sofgo.io/)  
-_Ondo, Nigeria · September 2023 – September 2024_
+- Build and maintain **piXeval** and **pixEBAP**, two PySide6 desktop apps for automated multiple-choice exam correction, used by universities and academies.
+- OCR/OMR answer-sheet scanning and grading with OpenCV2 and TensorFlow (up to 30 exams/minute).
 
-- Developed RESTful APIs using **Django** for logistics and e-commerce platforms.
-- Implemented authentication systems and payment gateway integrations.
+**Freelance Python Developer** · Remote · _2020 – Present_
 
-**Desktop Software Engineer** — [DINATEN](https://dinaten.com)  
-_Santa Cruz de Tenerife, Spain · August 2023 – Present_
+- Delivered backend APIs and automation scripts for clients in Nigeria and internationally; built Pandas data-processing tools for Excel/CSV-heavy workflows.
 
-- Built and maintain **piXeval** and **pixEBAP**, two Python (PySide6) desktop apps for automated multiple-choice exam correction, used by universities and academies.
-- Implemented OCR/OMR-based answer sheet scanning and grading using OpenCV2 and TensorFlow.
+**Backend Engineer** · [Sofgo](https://sofgo.io/) · Ondo, Nigeria (Remote) · _Sep 2023 – Sep 2024_
 
-**Freelance Python Developer**  
-_Remote · 2022 – Present_
-
-- Delivered backend APIs and automation scripts to clients across Nigeria and internationally.
-- Built data processing tools for Excel/CSV-heavy workflows using Pandas.
+- Built RESTful Django APIs for logistics and e-commerce platforms, with authentication and payment-gateway integrations.
 
 ## Projects
 
 ### Backend / API
 
-#### Token Realty Exchange – Decentralized Real Estate Commodities Platform
-
-**Technologies:** FastAPI, PostgreSQL, AWS  
-[tokenrealty.exchange](https://tokenrealty.exchange)
-
-- Built backend infrastructure tokenizing real estate equity into commodities, with multi-role authentication for brokers, sales managers, financial advisors, and licensees.
-- Developed KYC/AML verification workflows, token creation APIs, and location-specific AVM valuation logic.
-
-#### Multi-Tenant Mobile API Backend — Jodna Technologies
-
-**Technologies:** FastAPI, MongoDB, Redis, JWT, PM2
-
-- Architected scalable APIs supporting role-based access and real-time notifications for a mobile commerce app.
-- Created a notification microservice using FastAPI + Socket.IO, with device token-based FCM support.
-
-#### PriceGrid — Market Price Intelligence API _(solo project)_
-
-**Technologies:** FastAPI, SQLModel, PostgreSQL, Redis, Alembic, Docker, pytest  
-[github.com/prmpsmart/price-grid](https://github.com/prmpsmart/price-grid)
-
-- Solo-built backend that tracks prices of everyday goods across vendors and markets, detects price spikes in real time via a Redis pub/sub pipeline, and surfaces cross-market comparisons.
-- Shipped as a self-contained, fully tested v1 (unit + integration tests) with one-command Docker Compose setup.
+- **Multi-Tenant Mobile API Backend (Jodna)** — _FastAPI, MongoDB, Redis, JWT, PM2._ Role-based APIs with real-time notifications for a mobile commerce app.
+- **[PriceGrid](https://github.com/prmpsmart/price-grid)** _(solo)_ — _FastAPI, SQLModel, PostgreSQL, Redis, Alembic, Docker, pytest._ Market price-intelligence API with Redis pub/sub spike detection, cached reads, RBAC, and unit and integration tests.
+- **Temp_dev_db** — _FastAPI, Docker._ REST API that issues time-limited development databases, with API-key user management.
 
 ### Desktop (PySide6)
 
-#### piXeval & pixEBAP — DINATEN
+- **piXeval & pixEBAP (DINATEN)** — _Python, PySide6, OpenCV2, TensorFlow._ Production exam-correction apps: OMR grading at up to 30 exams/minute, bulk import from Word/Excel/Moodle, multilingual UI (Catalan, Spanish, English, Euskera, French).
+- **piXeval rebuild (DINATEN)** _(in progress, sole developer)_ — _Python, FastAPI, WebSockets, pytest, React, TypeScript._ Re-architected the PySide6 app into a Qt-free engine, a FastAPI backend, a web UI, and swappable desktop shells; 40k+ lines of Python and 79 test files. Rewrote the owner's sheet-generation scripts into a modular PDF/barcode/print-run pipeline.
+- **[SnapGrade](https://github.com/prmpsmart/snapgrade)** _(solo, in active development)_ — _PySide6, OpenCV, pyzbar, qrcode, ReportLab, openpyxl._ Generates, scans, and grades multiple-choice sheets via OMR with an ink-fill-ratio classifier and Excel roster import/export.
+- **[AudioWave](https://github.com/prmpsmart/audiowave)** — _Python, NumPy, PySide6._ Qt-free NumPy audio core (WAV/MP3 loading, loudness, spectra, editing) under Qt widgets, plus a recording and editing studio.
+- **[Qt Material Widgets](https://github.com/prmpsmart/qt-material-widgets)** — _Python, PySide6._ Python port of a Material Design widget set for Qt apps.
+- **Analytics Dashboard** — _Python, PySide6._ Figma-designed dashboard ported to desktop widgets.
 
-**Technologies:** Python, PySide6, OpenCV2, TensorFlow
+More public projects: [github.com/prmpsmart](https://github.com/prmpsmart)
 
-- Built and maintain two production desktop apps for automated multiple-choice exam correction, used by universities and academies across Spain.
-- Implemented OCR/OMR-based answer sheet scanning and grading (up to 30 exams/minute), bulk import from Word/Excel/Moodle, and multilingual UI (Catalan, Spanish, English, Euskera, French).
+## Education & Certifications
 
-#### SnapGrade _(solo project, in active development)_
-
-**Technologies:** PySide6, OpenCV, pyzbar, qrcode, ReportLab, openpyxl  
-[github.com/prmpsmart/snapgrade](https://github.com/prmpsmart/snapgrade)
-
-- Solo-built desktop app for generating, scanning, and grading multiple-choice exam sheets via OMR, with no proprietary Scantron hardware required.
-- Built and calibrated an OpenCV-based OMR grading engine (ink-fill-ratio bubble classification) plus Excel roster import/results export.
-
-### Freelance & Open Source
-
-#### AudioWave — Audio waveform visualization & playback
-
-**Technologies:** Python, PyQt/PySide6
-
-- Built a Python Qt library to record, play, read & write audio wave data with waveform visualization UI.
-- Supports live/recorded data, multi-channel, and GUI waveform rendering.
-
-#### Analytics Dashboard (PySide6)
-
-**Technologies:** Python, PySide6
-
-- Ported a Figma-designed analytics dashboard to a desktop app using PySide6 widgets.
-- Implemented UI components: buttons, cards, dialogs, filter panels.
-
-#### Temp_dev_db — Dummy REST API of temporary databases
-
-**Technologies:** Python, FastAPI, Docker
-
-- Created a REST API server to generate time-limited databases for dev/testing.
-- Built endpoints for CRUD operations, temporary DB lifetimes, and user management via API keys.
-
-#### Qt‑Material‑Widgets — Qt styling toolkit
-
-**Technologies:** Python, PySide6
-
-- Developed a Python port of a Material Design widget set for Qt apps.
-- Includes buttons, toggles, tabs, and progress bars compatible with Qt and PySide.
-
-> **More public projects:** [github.com/prmpsmart](https://github.com/prmpsmart)
-
-## Certifications
-
-- **Python Developer Certification** — freeCodeCamp, July 2026 — [verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9)
-
-## Education
-
-**B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — Graduated 2024
-
-## Languages
-
-- English (Fluent, C1)
-- Spanish (Conversational, B1)
-
-## Contact
-
-- **Email:** [prmpsmart@gmail.com](mailto:prmpsmart@gmail.com)
-- **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
-- **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
+- **B.Eng. Electrical & Electronics Engineering**, Federal University of Technology, Akure — 2024
+- **Python Developer Certification**, freeCodeCamp — Jul 2026, ~300 hours ([verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9))
+- **Languages:** English (fluent, C1), Spanish (conversational, B1)

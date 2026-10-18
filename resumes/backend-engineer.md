@@ -1,129 +1,64 @@
-# Miracle Apata – Backend Engineer
+# Miracle Apata — Backend Engineer
 
-[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com)
+[GitHub](https://github.com/prmpsmart) • [LinkedIn](https://linkedin.com/in/prmpsmart) • [Email](mailto:prmpsmart@gmail.com) • [Portfolio](https://prmpsmart.github.io) • +234 816 852 4477  
+Akure, Nigeria (WAT, UTC+1) · Remote · Open to remote roles
 
 ## Summary
 
-Skilled backend engineer with expertise in Python and TypeScript, experienced in building secure, scalable, and high-performance APIs for web and mobile platforms. Proven success collaborating across teams, optimizing systems, and deploying production-grade backend solutions using modern architectures and DevOps tools.
+Backend engineer building secure, real-time APIs in **Python (FastAPI, Django) and TypeScript (Node.js, NestJS)** for mobile and web products in commerce, logistics, estate management, and safety. Experienced with RBAC and JWT/OAuth2 auth, WebSocket and push infrastructure, multi-tenant design, and Docker/CI pipelines. Early member of a young software company, where I owned all backend work before also leading mobile, so I design APIs with the client developer in mind.
 
 ## Technical Skills
 
-- **Languages:** Python, TypeScript, JavaScript, SQL, C#
+- **Languages:** Python, TypeScript, JavaScript, SQL, C# · _Familiar:_ C, C++, OCaml
 - **Frameworks:** FastAPI, Django, Flask, Node.js, Express, NestJS, ASP.NET
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
-- **DevOps & Tools:** Docker, GitHub Actions, AWS, Nginx, Linux, Git, PM2
-- **Architecture:** RESTful APIs, Microservices, WebSockets, Serverless
-- **Auth & Security:** JWT, OAuth2, Session Auth, RBAC
-- **Testing:** Pytest, Jest, Postman, Unit & Integration Testing
-- **CI/CD:** GitHub Actions, Docker Compose, AWS CodePipeline
+- **Architecture:** RESTful APIs, microservices, WebSockets, serverless, multi-tenant systems
+- **Auth & Security:** JWT, OAuth2, session auth, RBAC
+- **DevOps:** Docker, Docker Compose, GitHub Actions, AWS (CodePipeline), Nginx, Linux, PM2
+- **Testing:** Pytest, Jest, Postman, unit and integration testing
 
-## Work Experience
+## Experience
 
-### **Backend Engineer**
+_All engagements are remote and held concurrently._
 
-[Jodna Technologies](https://jodnatechnologies.com/) — _Port Harcourt, Nigeria_  
-**December 2024 – Present**
+**Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
-- Led backend architecture for mobile and web platforms using FastAPI and Node.js.
-- Integrated cloud storage, push notifications, and analytics.
-- Mentored junior backend engineers and enforced best coding practices.
+- Early member of a young software company delivering client projects; initially owned all backend work.
+- Led backend architecture for mobile and web platforms on **FastAPI and Node.js**: authentication, RBAC, analytics.
+- Built a notification microservice (FastAPI + Socket.IO) with device-token FCM support; integrated cloud storage and push notifications.
+- Mentored junior backend engineers and enforced coding standards.
 
-### **Backend Engineer (Contract)**
+**Freelance Software Developer** · Remote · _2020 – Present_
 
-[ScanifyDev](https://scanifydev.com/) — _NJ, USA_  
-**September 2024 – December 2024**
+- Delivered backend APIs and automation scripts for clients in Nigeria and internationally.
 
-- Built and deployed backend APIs using Python (FastAPI) and Node.js (Express).
-- Collaborated on blockchain-integrated smart deal approvals and financial workflows.
-- Managed scalable database schemas and CI/CD pipelines.
+**Backend Engineer** · [Sofgo](https://sofgo.io/) · Ondo, Nigeria (Remote) · _Sep 2023 – Sep 2024_
 
-### **Backend Engineer (Internship)**
-
-[Sofgo](https://sofgo.io/) — _Ondo, Nigeria_  
-**September 2023 – September 2024**
-
-- Developed RESTful APIs using Django and Node.js for logistics and e-commerce platforms.
-- Implemented authentication systems, payment gateways, and deployment pipelines.
-- Worked closely with mobile engineers to ensure seamless frontend-backend integration.
+- Built RESTful APIs (Django, Node.js) for logistics and e-commerce platforms, with authentication, payment gateways, and deployment pipelines, working closely with mobile engineers.
 
 ## Projects
 
-### **Token Realty Exchange – Decentralized Real Estate Commodities Platform**
+**piXeval rebuild — engine & API (DINATEN)** _(in progress, sole developer)_ — _Python, FastAPI, WebSockets, pytest_
 
-**Tech:** FastAPI, PostgreSQL, TypeScript, LoopBack, MongoDB, AWS  
-[https://tokenrealty.exchange](https://tokenrealty.exchange)
+- Designed a Qt-free service layer (database, codecs, exams, formula evaluation without `eval`, reports, exports) and a FastAPI HTTP/WebSocket backend with background jobs, typed results, progress events, and mirrored error codes.
+- Documented the design, conventions, and phased plan; 79 test files; rewrote legacy sheet-generation scripts supplied by the product owner into a modular pipeline.
 
-- Built backend infrastructure for a decentralized platform enabling tokenization of real estate equity into commodities.
-- Designed and implemented multi-role authentication for brokers, sales managers, financial advisors, and licensees.
-- Developed KYC/AML verification workflows, token creation APIs, and location-specific AVM valuation logic.
-- Engineered secure, compliant smart contract integrations with DAO oversight and Series LLC asset holding models.
-- Ensured tokens are treated as commodities backed by deeds and mortgage filings—not securities—through strict business logic and validation pipelines.
+**Multi-Tenant Mobile API Backend (Jodna)** — _FastAPI, MongoDB, Redis, JWT, PM2_
 
-### **Gamaliel Consult – Corporate Advisory & Mentorship Hub**
+- Scalable role-based APIs with real-time notifications and analytics tracking for a mobile commerce app.
 
-**Tech:** Node.js, MongoDB, Express, TypeScript  
-[https://www.gamalielconsult.com](https://www.gamalielconsult.com)
+**[Tywn](https://home.twynapp.org/) backend** — _Node.js, TypeScript, PostgreSQL, JWT_
 
-- Built REST APIs powering a mentorship and business consultancy platform.
-- Integrated appointment scheduling and mentor matching features.
-- Developed custom role access for mentors, mentees, and admins.
+- Live location logging, alert dispatch, and personnel monitoring for security agents; private fleet tracking and subscriptions.
 
-### **Tywn (formerly TrackWeNg) – Backend Platform**
+**[PriceGrid](https://github.com/prmpsmart/price-grid)** _(personal)_ — _FastAPI, SQLModel, PostgreSQL, Redis, Alembic, Docker, pytest_
 
-**Tech:** Node.js, TypeScript, PostgreSQL, JWT  
-[https://home.twynapp.org/](https://home.twynapp.org/)
+- Price-intelligence API for informal markets: append-only price records, cross-market comparison, Redis-cached hot reads invalidated on write.
+- Spike detection as a decoupled Redis pub/sub pipeline; JWT and RBAC; unit and integration tests; one-command Docker Compose setup.
 
-- Developed backend APIs for a real-time tracking and alert system targeting individuals and security companies.
-- Implemented live location logging, alert dispatch system, and personnel monitoring for security agents.
-- Built features to support private fleet tracking, user subscriptions, and communication workflows.
+## Education, Recognition & Certifications
 
-### **PDF Webpage – Academic Document Sharing Platform**
-
-**Tech:** Node.js, TypeScript, MongoDB  
-[https://pdf-webpage-ashy.vercel.app](https://pdf-webpage-ashy.vercel.app)
-
-- Engineered backend for an academic material-sharing platform for students and tutors.
-- Enabled document upload, PDF categorization by course, level, and semester.
-- Implemented email capture and notification system for new materials and updates.
-
-### **Multi-Tenant Mobile API Backend – Jodna Technologies**
-
-**Tech:** FastAPI, MongoDB, Redis, JWT, PM2
-
-- Architected scalable APIs supporting role-based access and real-time notifications for a mobile commerce app.
-- Created a notification microservice using FastAPI + Socket.io.
-- Integrated user analytics tracking and device token-based FCM support.
-
-## Personal Projects
-
-### **PriceGrid – Market Price Intelligence API**
-
-**Tech:** FastAPI, PostgreSQL, SQLModel, Redis, Alembic, Docker, pytest, JWT  
-[https://github.com/prmpsmart/price-grid](https://github.com/prmpsmart/price-grid)
-
-- Solo-built backend that tracks prices of everyday goods across vendors and markets, detects price spikes in real time, and surfaces cross-market comparisons — built to address price opacity in informal/local markets.
-- Designed the schema and repository layer (goods, vendors, markets, append-only price records, alerts), using **SQLModel** to unify ORM tables and API response schemas, with Alembic-managed migrations.
-- Built price submission, history, cross-market comparison, and time-windowed trend endpoints, with **Redis** caching the highest-traffic read (`/prices/current`) and invalidating on write.
-- Implemented **spike detection** as a decoupled Redis pub/sub pipeline — the price service publishes spike events and a separate consumer persists alerts, so new delivery channels (email, webhook) can be added without touching the publisher.
-- Enforced **role-based access** (viewer/vendor/admin) with JWT auth and bcrypt password hashing, and covered the system with unit tests (business logic) and integration tests (auth → submit → alert flow).
-- Shipped as a self-contained, fully tested v1 — one-command setup via Docker Compose.
-
-## Certifications
-
-- **Python Developer Certification** — freeCodeCamp, July 2026 — [verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9)
-
-## Education
-
-**B.Eng. in Electrical & Electronics Engineering**  
-Federal University of Technology, Akure — Graduated 2024
-
-## Languages
-
-- English (Fluent, C1)
-- Spanish (Conversational, B1)
-
-## Contact
-
-- **Email:** <prmpsmart@gmail.com>
-- **LinkedIn:** [linkedin.com/in/prmpsmart](https://linkedin.com/in/prmpsmart)
-- **GitHub:** [github.com/prmpsmart](https://github.com/prmpsmart)
+- **B.Eng. Electrical & Electronics Engineering**, Federal University of Technology, Akure — 2024
+- **Outstanding Technical Contribution**, TrackWeNg (now Tywn) — Certificate of Recognition, Dec 2025
+- **Python Developer Certification**, freeCodeCamp — Jul 2026 ([verify](https://www.freecodecamp.org/certification/prmpsmart/python-v9))
+- **Languages:** English (fluent, C1), Spanish (conversational, B1)
