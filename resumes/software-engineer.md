@@ -21,6 +21,10 @@ Software engineer who ships end to end across **backend, mobile, and desktop**: 
 
 _All engagements are remote and held concurrently._
 
+**Mobile & Backend Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+
+- Building the Jorly travel-booking platform end to end: Flutter app and FastAPI backend with Paystack/Flutterwave payments, Redis, and Celery. In development.
+
 **Senior Mobile & Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
 - Early member of a young software company delivering client projects; started by owning all backend work, then took over mobile development alongside it.
@@ -54,6 +58,7 @@ _All engagements are remote and held concurrently._
 - **[Tywn](https://home.twynapp.org/)** (formerly TrackWeNg) — Flutter safety app: live location sharing, group chat, one-tap emergency alerts, background geolocation, and a home-screen widget.
 - **[Sentinel](https://sentinelsoftware.live)** — Flutter access-management app: QR visitor check-in/out, scoped sub-profiles, real-time announcements.
 - **OxyTrack** ([HealthPort Africa](https://healthportafrica.com)) — Flutter app tracking medical oxygen cylinders through their full lifecycle with QR and NFC identification and audit workflows.
+- **[Jorly](https://dev.flyjorly.com)** _(in development)_ — Travel booking platform: Flutter app plus FastAPI backend (flights, hotels, cars; Paystack and Flutterwave payments; Redis and Celery).
 - **[PriceGrid](https://github.com/prmpsmart/price-grid)** _(personal)_ — FastAPI, PostgreSQL, Redis: decoupled pub/sub spike alerts, cached reads, RBAC, unit and integration tests.
 - **[SnapGrade](https://github.com/prmpsmart/snapgrade)** _(personal)_ — PySide6 + OpenCV app that generates, scans, and grades multiple-choice sheets via OMR.
 

@@ -21,6 +21,10 @@ Senior mobile engineer building production **Flutter** apps (plus Kotlin, Swift,
 
 _All engagements are remote and held concurrently._
 
+**Mobile Engineer (Contract)** · [Jorly](https://dev.flyjorly.com) · Remote · _May 2026 – Present_
+
+- Building the Jorly travel-booking app (flights, hotels, car rentals) in Flutter with Cubit, `go_router`, and typed `Either` repositories; Paystack and Flutterwave checkout, FCM push, and Google/Apple sign-in. In development.
+
 **Senior Mobile Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
 - Early member of a young software company delivering client projects; started on backend, then moved into leading mobile development.
@@ -57,6 +61,12 @@ _All engagements are remote and held concurrently._
 - Digital visitor registration with multi-step check-in/out, QR/barcode verification, and scoped sub-profiles for dependents.
 - Real-time announcements, broadcasts, and activity logs across resident and security roles.
 - _Flutter, BLoC / Hydrated BLoC, Socket.IO, FCM_
+
+**[Jorly](https://dev.flyjorly.com)** _(in development)_ — Travel booking: flights, hotels and car rentals in one account
+
+- Cubit + Hydrated state, `go_router`, typed `Either` repositories that never throw, and a Paystack/Flutterwave checkout in a WebView.
+- Firebase push notifications, Google and Apple sign-in, and a feature-per-module structure documented as a handover reference.
+- _Flutter, Cubit, Dio, Firebase, Paystack, Flutterwave_
 
 **[OxyTrack](https://healthportafrica.com)** — Oxygen cylinder inventory for HealthPort Africa
 
