@@ -25,7 +25,7 @@ _All engagements are remote and held concurrently._
 
 - Building the Jorly travel-booking API in FastAPI and PostgreSQL: Sabre-backed flight, hotel and car search, Paystack/Flutterwave payments, group travel, JWT auth, and Celery background jobs. In development.
 
-**Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
+**Backend Engineer** · [Jodna Technologies](https://jodnatechnologies.com) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
 - Early member of a young software company delivering client projects; initially owned all backend work.
 - Led backend architecture for mobile and web platforms on **FastAPI and Node.js**: authentication, RBAC, analytics.
@@ -36,7 +36,7 @@ _All engagements are remote and held concurrently._
 
 - Delivered backend APIs and automation scripts for clients in Nigeria and internationally.
 
-**Backend Engineer** · [Sofgo](https://sofgo.io/) · Ondo, Nigeria (Remote) · _Sep 2023 – Sep 2024_
+**Backend Engineer** · [Sofgo](https://sofgo.io) · Ondo, Nigeria (Remote) · _Sep 2023 – Sep 2024_
 
 - Built RESTful APIs (Django, Node.js) for logistics and e-commerce platforms, with authentication, payment gateways, and deployment pipelines, working closely with mobile engineers.
 

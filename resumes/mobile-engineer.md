@@ -25,7 +25,7 @@ _All engagements are remote and held concurrently._
 
 - Building the Jorly travel-booking app (flights, hotels, car rentals) in Flutter with Cubit, `go_router`, and typed `Either` repositories; Paystack and Flutterwave checkout, FCM push, and Google/Apple sign-in. In development.
 
-**Senior Mobile Engineer** · [Jodna Technologies](https://jodnatechnologies.com/) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
+**Senior Mobile Engineer** · [Jodna Technologies](https://jodnatechnologies.com) · Port Harcourt, Nigeria (Remote) · _Dec 2024 – Present_
 
 - Early member of a young software company delivering client projects; started on backend, then moved into leading mobile development.
 - Led **three production Flutter apps** — Vaultify, Sentinel, and Tywn — from architecture through App Store/Play Store release.
@@ -33,7 +33,7 @@ _All engagements are remote and held concurrently._
 - Architected shared **real-time and push-notification infrastructure** (Socket.IO, FCM) reused across the team's apps for chat, alerts, and status sync.
 - Mentored junior engineers and introduced **clean architecture practices**.
 
-**Mobile Engineer (Contract)** · [Zent Technologies Limited](https://joinzent.com/) · Lagos, Nigeria (Remote) · _Mar 2025 – Jul 2025_
+**Mobile Engineer (Contract)** · [Zent Technologies Limited](https://joinzent.com) · Lagos, Nigeria (Remote) · _Mar 2025 – Jul 2025_
 
 - Developed and maintained the Zent app in Flutter (Android and iOS) with animated, responsive UI built from design prototypes.
 - Integrated services for real-time order tracking, inventory, and payment workflows; improved responsiveness by optimizing state management and API request handling. [Play Store](https://play.google.com/store/apps/details?id=pro.zent.zent_mobile_app)
